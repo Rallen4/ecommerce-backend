@@ -15,18 +15,14 @@ Tag.init(
     },
     tag_name: {
       type: DataTypes.STRING,
-    },
-    ProductTag: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
+    }
   },
   {
     sequelize,
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'Tag',
+    modelName: 'tag',
   }
 );
 

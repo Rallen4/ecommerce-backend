@@ -11,5 +11,7 @@
 ## Link to Heroku & GitHub
 
 ### Heroku: https://ryan-ecommerce.herokuapp.com/
-### GitHub: 
+### GitHub: https://github.com/Rallen4/ecommerce-backend
+
+
 
